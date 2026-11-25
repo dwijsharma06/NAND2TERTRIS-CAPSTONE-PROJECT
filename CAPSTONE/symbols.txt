@@ -1,0 +1,7 @@
+LOOP = 0
+WHITE = 8
+DRAW = 10
+ROW = 18
+color = 16
+ptr = 17
+count = 18
